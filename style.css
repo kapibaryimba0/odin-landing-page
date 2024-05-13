@@ -71,3 +71,42 @@ button {
   padding: 40px;
   width: 480px;
 }
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 50px;
+}
+
+.images {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 70px;
+}
+
+.info_con {
+  display: flex;
+  flex-direction: column;
+  width: 180px;
+  gap: 8px;
+}
+
+.info_head {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1F2937;
+}
+
+.info_image {
+  border: #3882F6 solid 4px;
+  height: 180px;
+  border-radius: 15px;
+}
+
+.info_sub {
+  font-size: 18px;
+  color: gray;
+  text-align: center;
+}
