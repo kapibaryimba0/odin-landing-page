@@ -110,3 +110,26 @@ button {
   color: gray;
   text-align: center;
 }
+
+.quote {
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 140px;
+}
+
+.quote_text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1F2937;
+  width: 830px;
+}
+
+.quote_author {
+  font-weight: bolder;
+  color: #1F2937;
+  font-size: 22px;
+  margin-left: 500px;
+}
