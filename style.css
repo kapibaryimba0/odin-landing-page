@@ -48,7 +48,8 @@ body {
 
 .hero_sub,
 .image,
-.placeholder_sub {
+.placeholder_sub,
+.odin {
   font-size: 18px;
   color: #E5E7EB;
 }
@@ -160,4 +161,11 @@ button {
   display: flex;
   justify-content: center;
   padding: 100px;
+}
+
+.footer {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
 }
